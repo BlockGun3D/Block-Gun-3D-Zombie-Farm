@@ -1,0 +1,58 @@
+{
+  "blocks_color_1000_zf": {
+    "itemType": "CONSUMABLE",
+    "description": "1000 blocks",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "1000 Blocks"
+  },
+  "blocks_color_10000_zf": {
+    "itemType": "CONSUMABLE",
+    "description": "10000 blocks",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "10000 Blocks"
+  },
+  "blocks_color_3000_zf": {
+    "itemType": "CONSUMABLE",
+    "description": "3000 blocks",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "3000 Blocks"
+  },
+  "blocks_silver_5_zf": {
+    "itemType": "CONSUMABLE",
+    "description": "5 silver",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "5 Silver"
+  },
+  "blocks_silver_15_zf": {
+    "itemType": "CONSUMABLE",
+    "description": "15 silver",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "15 Silver"
+  },
+  "blocks_silver_50_zf": {
+    "itemType": "CONSUMABLE",
+    "description": "50 silver",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "50 Silver"
+  },
+  "block_doubler_zf": {
+    "itemType": "ENTITLED",
+    "description": "Doubles blocks",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "Block Doubler"
+  },
+  "no_ads_zf": {
+    "itemType": "ENTITLED",
+    "description": "no ads",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "No Ads"
+  }
+}

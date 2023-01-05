@@ -1,0 +1,195 @@
+{
+  "iOSSKU": "wizard_BG3D_ZF",
+  "macAppStoreSKU": "",
+  "androidBillingPlatform": "GooglePlay",
+  "GooglePlayPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjCAvabEMY9ahWrnRWFC07b82NfzfxOOA/hQMF1Rm7M1ANiiGD6UnT9AlpL3VSFmLE36ARmPvMBmAx05296sDgsDoDXVRto4B4NmkoZvwQI8Dz3Q7MRE0CkhGXMwtfL0stT8rdftwOM1K3OmHux68eU/z8z3aPFq8YNsVpfs8688V6gEmtI45cDCtsJ6/80v/McfwyiECTnSu1AxJpyJDuASihLLJzCp0fYTRIRRw4vcMDnnBwovpXDpFY1LtpyAkk9Swk7LC+C4GeeEXDGG18Qm6U+2j7wBo/2NDxqfIqmZbUf4/lZXtoiXHwBBRMGQSSSEZIfMhGHOQbZm6r7DduQIDAQAB",
+  "useAmazonSandbox": true,
+  "UseWP8MockingFramework": false,
+  "useHostedConfig": false,
+  "hostedConfigUrl": null,
+  "UseWin8_1Sandbox": true,
+  "samsungAppsMode": "PRODUCTION",
+  "samsungAppsItemGroupId": "",
+  "unibillAnalyticsAppId": "",
+  "unibillAnalyticsAppSecret": "",
+  "purchasableItems": {
+    "blocks_color_1000_zf": {
+      "@id": "blocks_color_1000_zf",
+      "@purchaseType": "Consumable",
+      "name": "1000 Blocks",
+      "description": "1000 blocks",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 1.99,
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": 33,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "blocks_color_10000_zf": {
+      "@id": "blocks_color_10000_zf",
+      "@purchaseType": "Consumable",
+      "name": "10000 Blocks",
+      "description": "10000 blocks",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 0.0,
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": 1,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "blocks_color_3000_zf": {
+      "@id": "blocks_color_3000_zf",
+      "@purchaseType": "Consumable",
+      "name": "3000 Blocks",
+      "description": "3000 blocks",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 1.0,
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": 1,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "blocks_silver_5_zf": {
+      "@id": "blocks_silver_5_zf",
+      "@purchaseType": "Consumable",
+      "name": "5 Silver",
+      "description": "5 silver",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": "1",
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": "1"
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "blocks_silver_15_zf": {
+      "@id": "blocks_silver_15_zf",
+      "@purchaseType": "Consumable",
+      "name": "15 Silver",
+      "description": "15 silver",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 1.0,
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": 1,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "blocks_silver_50_zf": {
+      "@id": "blocks_silver_50_zf",
+      "@purchaseType": "Consumable",
+      "name": "50 Silver",
+      "description": "50 silver",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "block_doubler_zf": {
+      "@id": "block_doubler_zf",
+      "@purchaseType": "NonConsumable",
+      "name": "Block Doubler",
+      "description": "Doubles blocks",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 1.0,
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": 0,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "no_ads_zf": {
+      "@id": "no_ads_zf",
+      "@purchaseType": "NonConsumable",
+      "name": "No Ads",
+      "description": "no ads",
+      "downloadableContentId": null,
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 1.0,
+          "defaultLocale": "en_US"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {
+          "appleAppStorePriceTier": 0,
+          "screenshotPath": ""
+        },
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    }
+  },
+  "currencies": {}
+}

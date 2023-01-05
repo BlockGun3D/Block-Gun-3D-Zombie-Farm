@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GunUp
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.58155406, y: -9.697788E-08, z: 6.932679E-08, w: 0.81350774}
+        inSlope: {x: -1.0561717, y: -1.1492332E-07, z: -1.0750568E-07, w: 0.73802227}
+        outSlope: {x: -1.0561717, y: -1.1492332E-07, z: -1.0750568E-07, w: 0.73802227}
+        tangentMode: 0
+      - time: 0.18333334
+        value: {x: 0.3295586, y: -1.181975E-07, z: 4.125787E-08, w: 0.9441351}
+        inSlope: {x: -1.5873421, y: -1.0017417E-07, z: -1.879705E-07, w: 0.554207}
+        outSlope: {x: -1.5873421, y: -1.0017417E-07, z: -1.879705E-07, w: 0.554207}
+        tangentMode: 0
+      - time: 0.4166668
+        value: {x: 0.024879294, y: -1.327633E-07, z: 3.3040801E-09, w: 0.9996905}
+        inSlope: {x: -0.69208103, y: -3.5003865E-08, z: -9.106371E-08, w: 0.017988667}
+        outSlope: {x: -0.69208103, y: -3.5003865E-08, z: -9.106371E-08, w: 0.017988667}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: -0.0022679046, y: -1.3552305E-07, z: -3.0735411E-10, w: 0.99999744}
+        inSlope: {x: -0.00784199, y: -3.262623E-08, z: -1.1325056E-09, w: -1.7881603E-05}
+        outSlope: {x: -0.00784199, y: -3.262623E-08, z: -1.1325056E-09, w: -1.7881603E-05}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path:
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

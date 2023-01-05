@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AnimalAttack
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+        inSlope: {x: -0.07612346, y: -6.7949295E-05, z: -0.07612346, w: -6.7949295E-05}
+        outSlope: {x: -0.07612346, y: -6.7949295E-05, z: -0.07612346, w: -6.7949295E-05}
+        tangentMode: 0
+      - time: 0.38333344
+        value: {x: -0.0054474655, y: 0.7070858, z: -0.0054474655, w: 0.7070858}
+        inSlope: {x: 0.24633533, y: 0.001893638, z: 0.24633533, w: 0.001893638}
+        outSlope: {x: 0.24633533, y: 0.001893638, z: 0.24633533, w: 0.001893638}
+        tangentMode: 0
+      - time: 0.75
+        value: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+        inSlope: {x: -0.04359126, y: 2.1457616E-05, z: -0.04359126, w: 2.1457616E-05}
+        outSlope: {x: -0.04359126, y: 2.1457616E-05, z: -0.04359126, w: 2.1457616E-05}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: animal
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -0.70710677, w: 0.70710677}
+        inSlope: {x: 0, y: 0, z: -0.34949538, w: -0.35239574}
+        outSlope: {x: 0, y: 0, z: -0.34949538, w: -0.35239574}
+        tangentMode: 0
+      - time: 0.18333334
+        value: {x: 0, y: 0, z: -0.8006599, w: 0.5991191}
+        inSlope: {x: 0, y: 0, z: -0.34037414, w: -0.45375472}
+        outSlope: {x: 0, y: 0, z: -0.34037414, w: -0.45375472}
+        tangentMode: 0
+      - time: 0.30000004
+        value: {x: 0, y: 0, z: -0.7896156, w: 0.61360186}
+        inSlope: {x: 0, y: 0, z: 0.825374, w: 1.0482261}
+        outSlope: {x: 0, y: 0, z: 0.825374, w: 1.0482261}
+        tangentMode: 0
+      - time: 0.36666676
+        value: {x: 0, y: 0, z: -0.6641119, w: 0.7476332}
+        inSlope: {x: 0, y: 0, z: 2.4726226, w: 2.2038336}
+        outSlope: {x: 0, y: 0, z: 2.4726226, w: 2.2038336}
+        tangentMode: 0
+      - time: 0.4166668
+        value: {x: 0, y: 0, z: -0.5657048, w: 0.82460785}
+        inSlope: {x: 0, y: 0, z: 1.0472265, w: 0.7283282}
+        outSlope: {x: 0, y: 0, z: 1.0472265, w: 0.7283282}
+        tangentMode: 0
+      - time: 0.5333335
+        value: {x: 0, y: 0, z: -0.5537491, w: 0.83268356}
+        inSlope: {x: 0, y: 0, z: -0.4994564, w: -0.33306092}
+        outSlope: {x: 0, y: 0, z: -0.4994564, w: -0.33306092}
+        tangentMode: 0
+      - time: 0.7
+        value: {x: 0, y: 0, z: -0.67986727, w: 0.7333352}
+        inSlope: {x: 0, y: 0, z: -0.6753433, w: -0.6251842}
+        outSlope: {x: 0, y: 0, z: -0.6753433, w: -0.6251842}
+        tangentMode: 0
+      - time: 0.75
+        value: {x: 0, y: 0, z: -0.70710677, w: 0.70710677}
+        inSlope: {x: 0, y: 0, z: -0.44661525, w: -0.4419625}
+        outSlope: {x: 0, y: 0, z: -0.44661525, w: -0.4419625}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: animal/Bone/Bone_005
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []
