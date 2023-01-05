@@ -136,7 +136,11 @@ public class Global : MonoBehaviour
 
 	public virtual void Update()
 	{
-		GameState gameState = gm.GetGameState();
+        if (Input.GetKeyDown(KeyCode.F1))
+        {
+            Screen.lockCursor = !Screen.lockCursor;
+        }
+        GameState gameState = gm.GetGameState();
 		if (Input.GetKeyDown("escape"))
 		{
 			switch (gameState)

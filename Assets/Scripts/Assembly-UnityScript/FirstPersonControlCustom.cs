@@ -124,10 +124,6 @@ public class FirstPersonControlCustom : MonoBehaviour
 				Screen.lockCursor = true;
 				locked = true;
 			}
-			if (Input.GetKeyDown(KeyCode.F1))
-			{
-				Screen.lockCursor = !Screen.lockCursor;
-			}
 			moveTouchPad.position = updateKeyboardControls();
 			if (Screen.lockCursor)
 			{
